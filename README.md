@@ -1,4 +1,4 @@
-# Sales Agent AI Assistant
+# AI Powered Sales Agent(Assistant)
 
 ## Setup Guide
 
